@@ -1,0 +1,7 @@
+name: Penocide
+version: ${project.version}
+main: dev.hcr.penocide.Penocide
+commands:
+  hidestaff:
+  vanish:
+  module:
